@@ -13,7 +13,7 @@ Tab Reaper is not on the Chrome Web Store. Load it directly as an unpacked exten
 
 1. Clone or download this repo
    ```
-   git clone https://github.com/mjprojectweve/tab-reaper.git
+   git clone https://github.com/mj407/tab-reaper.git
    ```
 2. Open Chrome and go to `chrome://extensions`
 3. Enable **Developer Mode** (toggle in the top-right corner)
