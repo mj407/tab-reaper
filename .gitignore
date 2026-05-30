@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Packaged extension artifacts
+*.zip
+*.crx
+*.pem
+
+# Node (if build tooling is added later)
+node_modules/
